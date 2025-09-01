@@ -24,6 +24,6 @@ Play against another player and enjoy the classic game with a clean UI.
 
 ## 📸 Screenshot  
 
-![Tic Tac Toe Screenshot](./screenshot.png)  
+![Tic Tac Toe Screenshot](Tic-Tac-Toe-Game/Screenshot.png)  
 
 ---
